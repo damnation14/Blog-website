@@ -1,8 +1,6 @@
 # Blog website
--Django Blog website
+ A Django Blog website
 
--User authentication
-
--Post your blogs
-
--View other blogs
+- User authentication
+- Post your blogs
+- View other blogs
